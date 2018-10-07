@@ -20,7 +20,7 @@ img {
 	height: auto;
 }
 .productone {
-	border: 1px solid black;
+	/* border: 1px solid black; */
 	margin: 1rem;
 	width: 220px;
 	display: flex;
@@ -28,8 +28,8 @@ img {
 	align-items: center;
 	text-align: center;
 	padding: 0.5rem;
-	border-radius: 0.5rem;
-	background-color: yellow;
+	/* border-radius: 0.5rem; */
+	/* background-color: yellow; */
 }
 main {
 	display: flex;
@@ -56,4 +56,30 @@ h1 {
 }
 i {
 	padding-right: 4px;
+}
+.moveright {
+	padding-left: 2rem;
+}
+.producttwo {
+	display: flex;
+	flex-direction: column;
+	margin: 3rem;
+	align-items: center;
+}
+.top {
+	display: flex;
+}
+.bottom {
+	display: flex;
+	justify-content: center;
+}
+.product {
+	width: 20%;
+	height: auto;
+	margin: 1rem;
+}
+.top h3,
+.top figure {
+	margin-top: 0;
+	margin-bottom: 0;
 }

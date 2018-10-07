@@ -40,11 +40,11 @@ class Collectables extends Component {
 						{Content[character].title}
 					</span>
 				</nav>
-				<h2>{Content[character].title}</h2>
+				<h2 className="moveright">{Content[character].title}</h2>
 				<main>
 					{Content[character].collectables.map((collectable, index) => {
 						return (
-							<section key={collectable.title}>
+							<section key={collectable.title} className="productone">
 								<img src={collectable.imageURL} />
 								<Link to={`/collectables/${character}/${index}`}>
 									{collectable.title}

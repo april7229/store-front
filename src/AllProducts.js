@@ -30,7 +30,7 @@ class AllProducts extends Component {
 						EVERYTHING!
 					</span>
 				</nav>
-				<h2>COMICS</h2>
+				<h3 className="moveright">COMICS</h3>
 				<main>
 					{Object.keys(Content).map(character => {
 						return (
@@ -49,7 +49,7 @@ class AllProducts extends Component {
 						)
 					})}
 				</main>
-				<h3>COLLECTABLES</h3>
+				<h3 className="moveright">COLLECTABLES</h3>
 				<main>
 					{Object.keys(Content).map(character => {
 						return (

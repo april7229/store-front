@@ -5,6 +5,9 @@ class CollectableDetails extends Component {
 	render() {
 		const character = this.props.match.params.character
 		const index = this.props.match.params.index
+		function out() {
+			alert('Sorry out of stock, find it on Amazon')
+		}
 		return (
 			<>
 				<nav>
@@ -40,17 +43,27 @@ class CollectableDetails extends Component {
 							{Content[character].title}
 						</Link>
 					</span>
-					<span>/</span>
 					<span>
 						<i className="fas fa-info-circle" />
 						{Content[character].collectables[index].title}
 					</span>
 				</nav>
-				<main>
-					<h3>{Content[character].collectables[index].title}</h3>
-					<figure>{Content[character].collectables[index].price}</figure>
-					<article>{Content[character].collectables[index].synopsis}</article>
-					<img src={Content[character].collectables[index].imageURL} />
+				<main className="producttwo">
+					<div className="top">
+						<h3>{Content[character].collectables[index].title}</h3>
+						<figure>{Content[character].collectables[index].price}</figure>
+						<button onClick={out}>BUY</button>
+					</div>
+					<div className="bottom">
+						<div className="product">
+							<img src={Content[character].collectables[index].imageURL} />
+						</div>
+						<div className="product">
+							<article>
+								{Content[character].collectables[index].synopsis}
+							</article>
+						</div>
+					</div>
 				</main>
 			</>
 		)

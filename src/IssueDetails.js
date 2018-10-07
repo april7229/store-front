@@ -1,10 +1,14 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 import Content from './Content.json'
+import { callbackify } from 'util'
 class IssueDetails extends Component {
 	render() {
 		const character = this.props.match.params.character
 		const index = this.props.match.params.index
+		function out() {
+			alert('Sorry out of stock, find it on Amazon')
+		}
 		return (
 			<>
 				<nav>
@@ -14,7 +18,6 @@ class IssueDetails extends Component {
 							HOME
 						</Link>
 					</span>
-					<span>/</span>
 					<span>
 						<Link to="/comics">
 							<i class="fas fa-book" />
@@ -46,11 +49,20 @@ class IssueDetails extends Component {
 						{Content[character].issues[index].title}
 					</span>
 				</nav>
-				<main>
-					<h3>{Content[character].issues[index].title}</h3>
-					<figure>{Content[character].issues[index].price}</figure>
-					<article>{Content[character].issues[index].synopsis}</article>
-					<img src={Content[character].issues[index].imageURL} />
+				<main className="producttwo">
+					<div className="top">
+						<h3>{Content[character].issues[index].title}</h3>
+						<figure>{Content[character].issues[index].price}</figure>
+						<button onClick={out}>BUY</button>
+					</div>
+					<div className="bottom">
+						<div className="product">
+							<img src={Content[character].issues[index].imageURL} />
+						</div>
+						<div className="product">
+							<article>{Content[character].issues[index].synopsis}</article>
+						</div>
+					</div>
 				</main>
 			</>
 		)

@@ -35,14 +35,14 @@ class IssueCharacters extends Component {
 				<main>
 					{Object.keys(Content).map(character => {
 						return (
-							<aside>
+							<aside className="productone">
 								<h3>
 									<Link to={`/comics/${character}`}>
 										{Content[character].title}
 									</Link>
 								</h3>
-								<p>{Content[character].description}</p>
 								<img src={Content[character].issues[0].imageURL} />
+								<p>{Content[character].description}</p>
 							</aside>
 						)
 					})}

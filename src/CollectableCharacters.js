@@ -35,14 +35,14 @@ class CollectableCharacters extends Component {
 				<main>
 					{Object.keys(Content).map(character => {
 						return (
-							<aside>
+							<aside className="productone">
 								<h3>
 									<Link to={`/collectables/${character}`}>
 										{Content[character].title}
 									</Link>
 								</h3>
-								<p>{Content[character].description}</p>
 								<img src={Content[character].collectables[0].imageURL} />
+								<p>{Content[character].description}</p>
 							</aside>
 						)
 					})}
