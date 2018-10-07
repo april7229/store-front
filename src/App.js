@@ -1,28 +1,54 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import React, { Component } from 'react'
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
+import IssueCharacters from './IssueCharacters'
+import Issues from './Issues'
+import IssueDetails from './IssueDetails'
+import Featured from './Featured'
+import CollectableCharacters from './CollectableCharacters'
+import Collectables from './Collectables'
+import CollectableDetails from './CollectableDetails'
+import AllProducts from './AllProducts'
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
+	render() {
+		return (
+			<Router>
+				<>
+					<header>
+						<h1>Universe Comic Shop</h1>
+						<h2>The known Universe's best place to find comics online</h2>
+					</header>
+					<>
+						<Switch>
+							<Route exact path="/" component={Featured} />
+							<Route exact path="/comics" component={IssueCharacters} />
+							<Route exact path="/comics/:character" component={Issues} />
+							<Route
+								exact
+								path="/comics/:character/:index"
+								component={IssueDetails}
+							/>
+							<Route
+								exact
+								path="/collectables"
+								component={CollectableCharacters}
+							/>
+							<Route
+								exact
+								path="/collectables/:character"
+								component={Collectables}
+							/>
+							<Route
+								exact
+								path="/collectables/:character/:index"
+								component={CollectableDetails}
+							/>
+							<Route exact path="/all" component={AllProducts} />
+						</Switch>
+					</>
+				</>
+			</Router>
+		)
+	}
 }
 
-export default App;
+export default App
