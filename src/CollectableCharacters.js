@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
-import CollectableContent from './CollectableContent.json'
+import Content from './Content.json'
 
 class CollectableCharacters extends Component {
 	render() {
@@ -20,8 +20,10 @@ class CollectableCharacters extends Component {
 						</Link>
 					</span>
 					<span>
-						<i class="fas fa-child" />
-						COLLECTABLES
+						<a>
+							<i class="fas fa-child" />
+							COLLECTABLES
+						</a>
 					</span>
 					<span>
 						<Link to="/all">
@@ -31,18 +33,16 @@ class CollectableCharacters extends Component {
 					</span>
 				</nav>
 				<main>
-					{Object.keys(CollectableContent).map(character => {
+					{Object.keys(Content).map(character => {
 						return (
 							<aside>
 								<h3>
 									<Link to={`/collectables/${character}`}>
-										{CollectableContent[character].title}
+										{Content[character].title}
 									</Link>
 								</h3>
-								<p>{CollectableContent[character].description}</p>
-								<img
-									src={CollectableContent[character].collectables[0].imageURL}
-								/>
+								<p>{Content[character].description}</p>
+								<img src={Content[character].collectables[0].imageURL} />
 							</aside>
 						)
 					})}

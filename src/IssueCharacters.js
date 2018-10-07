@@ -14,8 +14,10 @@ class IssueCharacters extends Component {
 						</Link>
 					</span>
 					<span>
-						<i class="fas fa-book" />
-						COMICS
+						<a>
+							<i class="fas fa-book" />
+							COMICS
+						</a>
 					</span>
 					<span>
 						<Link to="/collectables">

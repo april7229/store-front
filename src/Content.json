@@ -33,6 +33,38 @@
 				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51MUHjSLG8L._SX323_BO1,204,203,200_.jpg",
 				"price": "$26.97"
 			}
+		],
+		"collectables": [
+			{
+				"title": "Funko Batman The Animated Series: Batman Pop Heroes Figure",
+				"synopsis": "From Batman The Animated Series, Batman, as a stylized POP vinyl from Funko. Stylized collectable stands 3 ¾ inches tall, perfect for any Batman The Animated Series fan. Collect and display all Batman The Animated Series POP Vinyls.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/41trnBjzshL.jpg",
+				"price": "$12.82"
+			},
+			{
+				"title": "DC Collectibles Designer Series: Batman by Andy Kubert Mini Statue",
+				"synopsis": "Legendary writer/artist Frank Miller returned to Batman with DARK KNIGHT III: THE MASTER RACE, teaming with superstar artist Andy Kubert! Now, the DC Collectibles statue based on Kubert's rendition of the Dark Knight is back in a new, miniaturized edition! Limited edition of 5,000. Measures approximately 7 inches tall.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71ZWkdVGtlL._SY679_.jpg",
+				"price": "$59.71"
+			},
+			{
+				"title": "Batman Batarang 1:1 Scale Prop Replica",
+				"synopsis": "The Dark Knight never leaves home without his Batarang. QMx Caliber Metalworks proudly presents the Batman Batarang 1:1 Scale Replica as seen in the movies Batman v Superman: Dawn of Justice, Suicide Squad and Justice League (2017). Developed from the screen-used prop, our Batarang has the commanding look and feel of a premium collectible. Cast in a sturdy zinc alloy, this authentic replica sits atop a magnetic stand that mirrors its iconic shape. The Batman Batarang 1:1 Scale Replica is a must-have addition to your collection.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/81S4a3BPOEL._SL1500_.jpg",
+				"price": "$54.99"
+			},
+			{
+				"title": "Batman Shaped Ceramic Coffee Mug - DC Comics Embossed Cup",
+				"synopsis": "A sleek and stylish drinking mug shaped into a typically slick Batman design, celebrating Gotham City's famous crime fighting hero. Perfectly capturing the cool, gadget based style of the darker versions of the legendary hero, such as Batman Begins, The Dark Knight, and comics and video games like Batman: Arkham Knight and The Killing Joke, the Batman shaped mug also features an embossed 'Bat' logo on the front, which is the classic iconic image from the pantheon of Batman comics and films.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/A1-tPtCb01L._SL1500_.jpg",
+				"price": "$13.96"
+			},
+			{
+				"title": "Batman Tactical Backpack",
+				"synopsis": "70% Polyester, zipper closure, Wipe Clean, Officially Licensed, Made of Strong, Super High Quality Material, 1 Fleece Lined Zippered Laptop Compartment, 1 Main Zippered Compartment, 2 Front Zippered Pockets, and 2 Side Zippered Pockets, All With Internal Organizational Pockets., Padded Adjustable Shoulder Straps, along with plenty of utility and compression straps, Light Reflective Bat Symbol On Front",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51VMXeDM7aL._SL500_AA130_.jpg",
+				"price": "$"
+			}
 		]
 	},
 	"spiderman": {
@@ -68,6 +100,242 @@
 				"synopsis": "In 1962, Stan Lee and Steve Ditko gave birth to one of the most enduring icons in American popular media: the one and only Amazing Spider-Man! Turning the concept of a super hero on its head, they imbued the young, guilt-ridden Peter Parker with the fantastic powers of an arachnid and the fantastic pressures of an everyday teenager. The combination was pure magic, and during the course of 40 issues of webslinging, wisecracking wonderment Lee and Ditko built the foundation for 45 years of Spidey spectaculars. COLLECTING: AMAZING FANTASY 15, AMAZING SPIDERMAN (1963) 1-38, ANNUAL (1964) 1-2, STRANGE TALES ANNUAL 2, FANTASTIC FOUR ANNUAL (1963) 1",
 				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61J%2BGgCsctL._SX336_BO1,204,203,200_.jpg",
 				"price": "$65.28"
+			}
+		],
+		"collectables": [
+			{
+				"title": "Funko Pop Marvel: Animated Spider-Man Movie - Spider-Man Collectible Figure, Multicolor",
+				"synopsis": "From Animated Spide, an Movie - Spider-Man, as a stylized POP vinyl from Funko!. Stylized collectable stands 3 ¾ inches tall, perfect for any animated spider fan!. Collect and display all animated spider figures from Funko!. Funko pop! is the 2017 toy of the year and people's choice award winner.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61Cjg5HHtXL._SL1500_.jpg",
+				"price": "$10.99"
+			},
+			{
+				"title": "Spider-Man Spider Cam Q-Fig Diorama",
+				"synopsis": "With great power comes great responsibility — but every now and then, a guy just wants to have fun! Spider-Man hangs upside down from a rope of web, waiting to snap the perfect shot. This playful diorama shows both the impishness and compact power of our teen superhero.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71kR1VSLIsL._SL1500_.jpg",
+				"price": "$17.39"
+			},
+			{
+				"title": "Men's Trifold Wallet in Collectible Tin Box",
+				"synopsis": "Marvel Trifold Wallet featuring Spider-Man",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/81b0kYWDEjL._UY679_.jpg",
+				"price": "$17.05"
+			},
+			{
+				"title": "The Amazing Spider-Man Collectible Juice Glass Set",
+				"synopsis": "Drink Your Juice Like A Real Superhero With This Set Of Official Marvel Comics Amazing Spider-Man Juice Glasses!",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71iyzEOSIwL._SL1200_.jpg",
+				"price": "$12.97"
+			},
+			{
+				"title": "Spider-Man Logo Book Ends",
+				"synopsis": "Thwip! you don't need web shooters to hold your books upright when you have the snazzy new Spider-Man logo bookends from gentle giant Ltd! using the classic Spider-Man logo for this dramatic and functional addition to your shelves, the Spider-Man logo bookends run the risk of overshadowing the books that they are supporting! crafted by gentle giant Ltd the hand painted Spider-Man logo bookends are manufactured using high quality polystone and are felt-lined to grip and keep your books in pristine condition. They are perfect for holding Comics, graphic novels, books, DVDs and video games or for simply displaying them together as the iconic Spidey logo! make mine Marvel!",
+				"imageURL": "data:image/webp;base64,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",
+				"price": "$40.00"
+			}
+		]
+	},
+	"ironman": {
+		"title": "Iron Man",
+		"description": "Iron Man is a fictional superhero appearing in American comic books published by Marvel Comics. The character was created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39 (cover dated March 1963), and received his own title in Iron Man #1 (May 1968).",
+		"issues": [
+			{
+				"title": "Iron Man Epic Collection: The Golden Avenger (Epic Collection: The Invincible Iron Man) ",
+				"synopsis": "In 1963, Marvel had hit after hit, bringing new characters and fresh concepts to a public primed and ready for heroes with feet of clay. And none touched both that heroic ideal and human reality like Iron Man! A jet-setter, playboy and brilliant scientist, Tony Stark's life changed forever when a batt lefi eld explosion ripped into his heart...and only the amazing Iron Man armor could keep him alive! Stan Lee and Don Heck built the foundation that would turn Iron Man into a cultural icon. COLLECTING: TALES OF SUSPENSE (1959) 39-72 (IRON MAN EPIC COLLECTION VOL. 1)",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51n-UQXGZGL._SX321_BO1,204,203,200_.jpg",
+				"price": "$59.98"
+			},
+			{
+				"title": "Iron Man Epic Collection: Stark Wars",
+				"synopsis": "Time for the Armored Avenger to start avenging! Tony Stark is back in the groove as Iron Man, from outer space to the ocean depths. But the new Stark Enterprises is under constant super-villain alert, under attack from familiar faces like Spymaster and new threats like the ethereal Ghost. And when Tony discovers that his technology has been stolen and abused, he declares war on anyone in armor! Iron Man's new ruthless streak brings him into conflict with the U.S. government, S.H.I.E.L.D. and the Avengers, and as his actions grow ever more extreme, he must battle an old friend in a new guise - Steve Rogers, aka The Captain! COLLECTING: Iron Man (1968) 215-232, Iron Man Annual 9 (Iron Man Epic Colle ctio n Vol . 13)",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61B0JezE%2B0L._SX323_BO1,204,203,200_.jpg",
+				"price": "$37.07"
+			},
+			{
+				"title": "Extremis (Iron Man)",
+				"synopsis": "It's the beginning of a new era for Iron Man! Renowned scribe Warren Ellis joins forces with acclaimed illustrator Adi Granov to redefine the armored Avenger's world for the 21st century - a landscape of terrifying new technologies that threaten to overwhelm a fragile mankind! What is Extremis, who has unleashed it, and what does its emergence portend for the world? COLLECTING: Iron Man (2005) 1-6",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/41495TYt-zL._SX333_BO1,204,203,200_.jpg",
+				"price": "$12.71"
+			},
+			{
+				"title": "Iron Man: Demon in a Bottle",
+				"synopsis": "Iron Man faces his most untouchable foe in criminal industrialist Justin Hammer and his literal army of super-villains! But can the Armored Avenger overcome an even more implacable personal demon, invulnerable to technology or wealth? Guest-starring Ant-Man and the Sub-Mariner! Collects Iron Man #120-128.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51IRpkxYAkL._SX320_BO1,204,203,200_.jpg",
+				"price": "$20.20"
+			},
+			{
+				"title": "Iron Man: Director of S.H.I.E.L.D. - The Complete Collection",
+				"synopsis": "Tony Stark takes on the Marvel Universe's hardest job: Director of S.H.I.E.L.D.! And he's just the futurist to bring the peacekeeping intelligence organization up to date! But with Tony in the hot seat, what will that mean for Iron Man? He'll face techno-zombies, an old hero with a grudge, a traitor in the Initiative and regime change in the nation of Madripoor! Will Tony Stark crack under the pressure of being the world's top cop? COLLECTING: IRON MAN: DIRECTOR OF S.H.I.E.L.D. 15-32, ANNUAL 1 ",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51p0ubsRPwL._SX322_BO1,204,203,200_.jpg",
+				"price": "$26.75"
+			}
+		],
+		"collectables": [
+			{
+				"title": "Avengers Marvel Legends Gear Iron Man Replica Helmet",
+				"synopsis": "For years, Tony Stark has been trouncing evildoers and thwarting nefarious schemes in the guise of the Invincible Iron Man. The ever-evolving high-tech armor, in combination with Stark’s own bravery and sense of justice, proves itself a formidable foe of wrongdoing. The Marvel’s Legends Series is dedicated to providing fans with exceptional action figures and choice Premium Role Play collectibles. The Iron Man Electronic Helmet is a perfect addition to the brand - built with the serious Marvel true believer in mind.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/81oIikRJuML._UX522_.jpg",
+				"price": "$179.99"
+			},
+			{
+				"title": "Iron Man Movie Masterpiece Iron Man 1/6 Collectible Figure [Mark III]",
+				"synopsis": "Iron Man Movie 12 Inch Action Figure Movie Masterpiece Series 1/6 Scale - Iron Man Mark III Hot Toys",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61T4D3YDvSL._SL1000_.jpg",
+				"price": "$551.00"
+			},
+			{
+				"title": "Marvel Ironman Thermo-Electric Mini Fridge Cooler, Red/Gold",
+				"synopsis": "Officially licensed Marvel collectible mini fridge. Features Warming function if you'd like to keep your food warm! Interior Capacity: 6 cans of 12oz soda or 4L/.14 cu. ft. Exterior measurement: 11.5 inch high 7.5 inch wide 11.5 inch deep. Power: Plugs into a standard US outlet or DC 12V car socket.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61BvSlov0RL._SL1000_.jpg",
+				"price": "$79.95"
+			},
+			{
+				"title": "Iron Man Light-Up Q-Fig FX Diorama",
+				"synopsis": "Clad in gleaming high-tech armor, billionaire industrialist and genius inventor Tony Stark takes off on his next mission as Iron Man. This member of the Avengers is genuinely devoted to making the world a better place. Iron Man's plume of jet exhaust lights up (batteries included) with a fiery golden glow in this Q-Fig FX diorama. Special metallic paint gives his armor a brilliant sheen. This version of the superhero is featured in the Marvel movie Captain America: Civil War.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71wC88%2B9TaL._SL1500_.jpg",
+				"price": "$15.40"
+			},
+			{
+				"title": "2018 IM MK2 Led Arc Reactor Exclusive 1:1 Collectible Replica",
+				"synopsis": "Exclusive Arc Reactor 1:1 Props, CNC Process Part, Integrated Design, Hand Made, Include Display Stand and Cover, Iron Man Powered by USB Port,The Weight is 1.32.KG ",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61NdckWpJSL._SL1001_.jpg",
+				"price": "$289.98"
+			}
+		]
+	},
+	"deadpool": {
+		"title": "Deadpool",
+		"description": "Deadpool (Wade Winston Wilson) is a fictional character appearing in American comic books published by Marvel Comics. Created by writer Fabian Nicieza and artist/writer Rob Liefeld, the character first appeared in The New Mutants #98 (cover-dated February 1991). ",
+		"issues": [
+			{
+				"title": "Deadpool Kills the Marvel Universe",
+				"synopsis": "What if everything you thought was funny about Deadpool was actually just disturbing? What if he decided to kill everyone and everything that makes up the Marvel Universe? What if he actually pulled it off? Would that be FUN for you? The Merc with a Mouth takes a turn for the twisted in a horror comic like no other! Collecting DEADPOOL KILLS THE MARVEL UNIVERSE #1-4.",
+				"imageURL": "https://d2svrcwl6l7hz1.cloudfront.net/content/B00EAROYVU/resources/0?mime=image/*",
+				"price": "$10.19"
+			},
+			{
+				"title": "Deadpool by Daniel Way: The Complete Collection - Volume 1",
+				"synopsis": "Daniel Way's hilarious, action-packed run begins here! When the Merc with a Mouth is hired to rub out Wolverine, sparks will fly! But when both men can regenerate any wound in minutes, how can either one expect to finish off his foe? And whoever wins will have to face Wolverine's murderous son, Daken! Then: The Skrulls have infiltrated Earth, but nobody warned them about Deadpool! The invaders replicate Deadpool's healing factor in a new generation of Super-Skrulls - but why is Deadpool himself leading this brigade against Earth? And when Norman Osborn double-crosses Deadpool, the maniacal merc unleashes a full-on assault against Avengers Tower! Norman must pull out all the stops - and that means deploying his new team of bloodthirsty, black-ops Thunderbolts! COLLECTING: WOLVERINE: ORIGINS 21-25, DEADPOOL (2008) 1-12, THUNDERBOLTS 130-131 and DEADPOOL SAGA",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/514NT6bSFZL._SX322_BO1,204,203,200_.jpg",
+				"price": "$21.49"
+			},
+			{
+				"title": "Deadpool by Daniel Way: The Complete Collection Volume 2",
+				"synopsis": "Deadpool wants to be an X-Man. And he's not going to let anyone stand in his way - not even the X-Men! When Cyclops announces to the world that the X-Men are constructing an island haven for mutants, Wade Wilson decides it's time for him to join the revolution. But he soon find outs that big guns and a healing factor don't an X-Man make. Then, Deadpool must team-up with Spider-Man to go after the most dangerous threat he's ever faced. Plus, it's it's a Vegas vacation done Deadpool-style when Wade draws the ire of Las Vegas' biggest casino bosses and their newest protector-for-hire, The House - a super-suited security guard armed to the teeth! COLLECTING: Deadpool 13-31",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51yBYujWa3L._SX323_BO1,204,203,200_.jpg",
+				"price": "$26.78"
+			},
+			{
+				"title": "Deadpool by Daniel Way: The Complete Collection Volume 3",
+				"synopsis": "Deadpool heads into space to increase his intergalactic cred. Will taking on galactic assassin Macho Gomez and the immense Id the Selfish Moon cement Deadpool as the solar system's best, most ruthless mercenary? Not as far as his old friends back on Earth are concerned...Hydra Bob, Big Bertha, Taskmaster and Blind Al all want to claim a piece of his hide! Deadpool flirts with both mortality and sanity as he takes on the incredible Hulk (hoping to die!) and is locked up in an asylum (that could actually help him!). COLLECTING: Deadpool (2008) 32-49, 33.1, 49.1",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61vSYlmnx3L._SX321_BO1,204,203,200_.jpg",
+				"price": "$22.96"
+			},
+			{
+				"title": "Deadpool vs. the Marvel Universe",
+				"synopsis": "Deadpool continues his journey through time and space and teams up with such heroes as Captain America, Wolverine, Brother Voodoo, and Ka-Zar in his quest to prove himself the ultimate hero.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51KYQ6mgUuL._SX325_BO1,204,203,200_.jpg",
+				"price": "$17.88"
+			}
+		],
+		"collectables": [
+			{
+				"title": "Funko POP! Marvel: Deadpool Playtime - Deadpool in Robe",
+				"synopsis": "From Deadpool Playtime, Deadpool in Robe, as a stylized POP vinyl from Funko! Figure stands 3 3/4 inches and comes in a window display box. Check out the other Deadpool Playtime figures from Funko! Collect them all!",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/41jMNtNCKLL.jpg",
+				"price": "$10.16"
+			},
+			{
+				"title": "Diamond Select Toys Marvel Gallery: Deadpool PVC Figure",
+				"synopsis": "A Diamond Select Toys release! The Merc With a Mouth is now a Merc of Art! Joining the Marvel Gallery line of figures, Deadpool leaps from an explosion, wielding twin katanas, to become the latest affordable artwork to spring out of the Gallery series. Cast in PVC plastic with high-quality paint applications, Deadpool joins Lady Deadpool, Captain Marvel, Thor, and Ant-Man in the 9-inch scale figure line, and is in scale to all Gallery and Femme Fatales figures. Packaged in a full-color window box. Sculpted by Jean St. Jean!.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61cb2bX4rkL._SL1200_.jpg",
+				"price": "$43.92"
+			},
+			{
+				"title": "Gentle Giant Deadpool Caesar Classic Bust",
+				"synopsis": "Gentle Giant LTD's Classic Mini Bust collection takes the design aesthetics from the ageless masters of decades gone by. The classical antiquity that is conveyed in this amazing series of Greek and Roman inspired works of art is second to none. Classic and classy, who's got enough class to be a Romanesque bust? Why, Deadpool of course! Gentle Giant LTD is proud to present our Deadpool Caesar Classic Mini Bust! This Deadpool Classic Bust combines the timeless aesthetics of sculpture from Greek and Roman antiquity, with one of popular cultures most recognizable characters. Each limited edition, hand-painted polyresin bust comes individually numbered and is paired with a matching certificate of authenticity. Bust measures 7-inches tall by 4 1/2 by 3 1/2-inches. Ages 15 and up.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/516aUKbog4L._SX425_.jpg",
+				"price": "$70.09"
+			},
+			{
+				"title": "Factory Entertainment Marvel Comics Deadpool Rocket Ride Premium Motion Statue",
+				"synopsis": "Many chimichangas were consumed by the Factory Entertainment team to give US the energy to bring you the first in our upcoming line of Deadpool products, the Deadpool rocket ride premium motion statue.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61B6%2BKcegNL._SL1000_.jpg",
+				"price": "$99.99"
+			},
+			{
+				"title": "Marvel Deadpool Wood Nesting Dolls",
+				"synopsis": "Introducing the collectible Deadpool Family Wood Nesting Dolls! These detailed, solid wood, fully decorated dolls each fit inside the other, and range from 1.5 inches to 5.5 inches tall! The entire Deadpool family is represented: Deadpool, Lady Deadpool, Kidpool, Headpool, and even Dogpool! A must-have for any Deadpool fan or collector! Recommended Age 14+",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71GYHpptJML._SL1500_.jpg",
+				"price": "$22.95"
+			}
+		]
+	},
+	"wonderwoman": {
+		"title": "Wonder Woman",
+		"description": "Wonder Woman is a fictional superhero appearing in American comic books published by DC Comics.[2] The character is a founding member of the Justice League, and an ambassador of the Amazon people. The character first appeared in All Star Comics #8 in October 1941[1] with her first feature in Sensation Comics #1, January 1942. ",
+		"issues": [
+			{
+				"title": "Wonder Woman 75th Anniversary Box Set",
+				"synopsis": "The most recognizable superheroine of all time, Wonder Woman has been an essential part of the DC Universe and an icon for female empowerment for more than 75 years. Armed with her lasso of truth and her bullet-stopping bracelets, the Amazon Princess journeys into Man’s World again and again, spreading her mission of peace and goodwill and fiercely battling injustice where she finds it. She’s a princess, a warrior and an ambassador. Beautiful as Aphrodite, wise as Athena, stronger than Hercules, swifter than Mercury…she is Wonder Woman! WONDER WOMAN: A CELEBRATION OF 75 YEARS collects more than 400 pages of the iconic heroine’s best stories, from her first appearance by William Moulton Marston and H.G. Peter, to her mod ’60s redesign by Denny O’Neil and Mike Sekowsky, to her present-day adventures by Brian Azzarello and Cliff Chiang. Other legendary talents featured include George Pérez, Darwyn Cooke, Robert Kanigher, Gene Colan, Phil Jimenez, Mike Deodato, Greg Rucka, Gail Simone and more.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51MDnE5AnrL._SX258_BO1,204,203,200_.jpg",
+				"price": "$33.99"
+			},
+			{
+				"title": "Wonder Woman Vol. 1: The Lies (Rebirth) (Wonder Woman DC Universe Rebirth) ",
+				"synopsis": "Heroic. Iconic. Unstoppable. Armed with her Lasso of Truth and imbued with the power of the gods themselves, Princess Diana of Themyscira—known to the world as Wonder Woman—is one of the greatest superheroes in history. But who is she…really? Not even Wonder Woman herself knows for sure. Diana’s links to both the Amazons and the Gods of Olympus have been severed. Her memories are a tangle of contradictions that even her lie-detecting lasso cannot untangle. To solve the riddle of her origin, she must embark on her greatest quest of all: finding a way back to her vanished home. To get there, she must team up with her greatest enemy, the feral beast-woman, Cheetah. Will this unlikely alliance shine the light of truth on Diana’s darkest secrets, or bury them—and her—forever? Find out in WONDER WOMAN VOL. 1: THE LIES—exploding from the blockbuster DC Rebirth event! Legendary Wonder Woman writer Greg Rucka (BATWOMAN: ELEGY) makes his triumphant return to the character for the first time in years and joins renowned fantasy artist Liam Sharp (2000 AD) for one of the most momentous stories in Diana’s history! Collects WONDER WOMAN #1, #3, #5, #7, #9, #11 and the WONDER WOMAN: REBIRTH one-shot.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51CDYuRxeNL._SX320_BO1,204,203,200_.jpg",
+				"price": "$12.07"
+			},
+			{
+				"title": "Wonder Woman Vol. 2: Year One (Rebirth) (Wonder Woman: DC Universe Rebirth)",
+				"synopsis": "The island of Themiscyra is a paradise. Far from man’s world, the Amazons live a life of physical, intellectual and emotional perfection…and isolation. For though they are blessed by the gods of Olympus, they can never know the world beyond their shores. Until an aircraft from another civilization crash lands on Amazonian soil, and changes their lives forever. Princess Diana has lived her entire life in her homeland’s blessed air. Her friends, her lovers, her mother are all here. But this glimpse of a world outside stirs a higher calling within her. An entire planet cries for help. A whole world needs her protection. And the very gods would see her fail. But Diana of Themiscyra is a woman of destiny. A woman of power. A woman of wonder…. The legendary Wonder Woman creative team of Greg Rucka and Nicola Scott unite for WONDER WOMAN VOL. 2: YEAR ONE! Exploding from the pages of the blockbuster DC Rebirth event, it’s the untold origin of the Amazon Princess, her archenemies Ares and Cheetah, and more! Collects WONDER WOMAN #2, #4, #6, #8, #10, #12, #14.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51f9eq3GBiL._SX322_BO1,204,203,200_.jpg",
+				"price": "$13.21"
+			},
+			{
+				"title": "Wonder Woman Vol. 3: The Truth (Rebirth)",
+				"synopsis": "WONDER WOMAN VOL. 3: THE TRUTH is the latest chapter of the instant-classic saga from writer Greg Rucka and artist Liam Sharp.  They say the truth will set you free. That’s what Princess Diana—the hero known to the world as Wonder Woman—believed. But she discovered a far darker truth, learning that her entire life and history had been transformed…and it has driven her to madness. Even as her life unravels, sinister forces threaten all she holds dear. No matter how great the trauma, she must continue to fight against the evil and lies that have destroyed her life. With the help of her closest allies—and her greatest enemy, the Cheetah—Diana will put the pieces of her broken mind back together and do battle against her fearsome new foes.  Will she defy the will of the gods, save her Amazon sisters and solve the mystery of her own existence once and for all? Or is the cost of the truth too steep for even Wonder Woman to bear? Exploding from the pages of the blockbuster DC Rebirth event, this storyline collects odd-numbered issues from WONDER WOMAN #13-25.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51gUDeyrRoL._SX321_BO1,204,203,200_.jpg",
+				"price": "$10.95"
+			},
+			{
+				"title": "Wonder Woman: The War Years 1941-1945 (DC Comics: The War Years)",
+				"synopsis": "Wonder Woman, warrior princess of the Amazons, is among the most famous heroes of all time. From her introduction in 1941, she has been a shining example of feminism and the strength of womankind. But what was her role during the wartime of her creation? Wonder Woman: The War Years 1941-1945 details how she used her super speed, strength, and Golden Lasso of Truth during World War II to bring peace and justice to a turbulent world.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61G-8q494JL._SX258_BO1,204,203,200_.jpg",
+				"price": "$16.99"
+			}
+		],
+		"collectables": [
+			{
+				"title": "Funko POP Heroes: DC Bombshell Wonder Woman Toy Figures",
+				"synopsis": "From DC, DC Bombshell Wonder Woman, as a stylized POP vinyl from Funko! Stylized collectable stands 3 ¾ inches tall, perfect for any DC fan! Collect and display all DC POP! Vinyl's!",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/41nXYn5YnkL.jpg",
+				"price": "$8.79"
+			},
+			{
+				"title": "DC Collectibles Wonder Woman Tiara, Bracelets & Lasso Prop Set",
+				"synopsis": "Includes replicas of Wonder woman's most iconic gear, Celebrate Wonder woman's 75th anniversary, Crafted in 1:1 scale, Crafted out of metal, ABS, and resin, Limited edition",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/91vdS9FkNtL._SL1500_.jpg",
+				"price": "$"
+			},
+			{
+				"title": "DC Collectibles' Wonder Woman Movie: Wonder Woman on Horseback Deluxe Statue",
+				"synopsis": "Sculpted by James Marsano. Measures approximately 17.55 inches tall. Before she was Wonder Woman, she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when an American pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside man in a war to end all wars, Diana will discover her full powers.... and her true Destiny.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/8149R8b32vL._SL1500_.jpg",
+				"price": "$272.00"
+			},
+			{
+				"title": "Warner Brothers DC comics Wonder Woman, Being Wonder Woman Adult Comfy Throw Blanket with Sleeves",
+				"synopsis": "Made of soft, thick, luxurious fleece with oversized loose fitting sleeves, the Youth Comfy Throw with Sleeves by The Northwest Company lets shoulders, arms and upper body remain protected from the cold while leaving arms and hands free to use a laptop, TV remote, read a book, talk on the phone; or enjoy a snack. Measures 48 inches x 71 inches and Features bold licensed designs.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/81QBUOIh3CL._SL1500_.jpg",
+				"price": "$27.99"
+			},
+			{
+				"title": "Zak! Designs Pint Glass Tumblers, Wonder Woman, Set of 2",
+				"synopsis": "These glasses are an attractive addition to any household, whether it's at the table, on a shelf, or even in a display case. The full coverage art is bright and vibrantly colored, an eye-catching statement from any angle. Both decorative and functional, they're also great for everyday use, with a 16-ounce Capacity and an easy-to-hold cone shape. When it's time to clean up, they stack nicely for easy, space-saving storage. And don't worry over the delicate handling of fragile materials: the thicker glass reduces chances of breakage. Everything comes in a fully decorated box that's easy to wrap and transport - the perfect gift for any occasion. These glasses are completely BPA free and should be washed by hand. They're not recommended for the dishwasher or microwave.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/8119QP5BlgL._SL1500_.jpg",
+				"price": "$22.94"
 			}
 		]
 	}

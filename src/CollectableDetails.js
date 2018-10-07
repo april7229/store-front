@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
-import CollectableContent from './CollectableContent.json'
+import Content from './Content.json'
 class CollectableDetails extends Component {
 	render() {
 		const character = this.props.match.params.character
@@ -37,26 +37,20 @@ class CollectableDetails extends Component {
 					<span>
 						<Link to={`/collectables/${character}`}>
 							<i className="fas fa-book-open" />
-							{CollectableContent[character].title}
+							{Content[character].title}
 						</Link>
 					</span>
 					<span>/</span>
 					<span>
 						<i className="fas fa-info-circle" />
-						{CollectableContent[character].collectables[index].title}
+						{Content[character].collectables[index].title}
 					</span>
 				</nav>
 				<main>
-					<h3>{CollectableContent[character].collectables[index].title}</h3>
-					<figure>
-						{CollectableContent[character].collectables[index].price}
-					</figure>
-					<article>
-						{CollectableContent[character].collectables[index].synopsis}
-					</article>
-					<img
-						src={CollectableContent[character].collectables[index].imageURL}
-					/>
+					<h3>{Content[character].collectables[index].title}</h3>
+					<figure>{Content[character].collectables[index].price}</figure>
+					<article>{Content[character].collectables[index].synopsis}</article>
+					<img src={Content[character].collectables[index].imageURL} />
 				</main>
 			</>
 		)

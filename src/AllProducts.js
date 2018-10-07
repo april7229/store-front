@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 import Content from './Content.json'
-import CollectableContent from './CollectableContent.json'
 
 class AllProducts extends Component {
 	render() {
@@ -38,7 +37,7 @@ class AllProducts extends Component {
 							<main>
 								{Content[character].issues.map((issue, index) => {
 									return (
-										<section key={issue.title}>
+										<section key={issue.title} className="productone">
 											<img src={issue.imageURL} />
 											<Link to={`/comics/${character}/${index}`}>
 												{issue.title}
@@ -52,21 +51,19 @@ class AllProducts extends Component {
 				</main>
 				<h3>COLLECTABLES</h3>
 				<main>
-					{Object.keys(CollectableContent).map(character => {
+					{Object.keys(Content).map(character => {
 						return (
 							<main>
-								{CollectableContent[character].collectables.map(
-									(collectable, index) => {
-										return (
-											<section key={collectable.title}>
-												<img src={collectable.imageURL} />
-												<Link to={`/collectable/${character}/${index}`}>
-													{collectable.title}
-												</Link>
-											</section>
-										)
-									}
-								)}
+								{Content[character].collectables.map((collectable, index) => {
+									return (
+										<section key={collectable.title} className="productone">
+											<img src={collectable.imageURL} />
+											<Link to={`/collectable/${character}/${index}`}>
+												{collectable.title}
+											</Link>
+										</section>
+									)
+								})}
 							</main>
 						)
 					})}

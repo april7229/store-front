@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
-import CollectableContent from './CollectableContent.json'
 import Content from './Content.json'
 
 class Featured extends Component {
@@ -9,8 +8,10 @@ class Featured extends Component {
 			<>
 				<nav>
 					<span>
-						<i class="fas fa-globe" />
-						HOME
+						<a>
+							<i class="fas fa-globe" />
+							HOME
+						</a>
 					</span>
 					<span>
 						<Link to="/comics">
@@ -24,7 +25,6 @@ class Featured extends Component {
 							COLLECTABLES
 						</Link>
 					</span>
-					<span>/</span>
 					<span>
 						<Link to="/all">
 							<i class="fas fa-box" />
@@ -33,30 +33,48 @@ class Featured extends Component {
 					</span>
 				</nav>
 				<h3>Best Sellers</h3>
-				<section>
-					<img src={CollectableContent['batman'].collectables[3].imageURL} />
-					<Link to={`/collectables/batman/3`}>
-						{CollectableContent['batman'].collectables[3].title}
-					</Link>
-				</section>
-				<section>
-					<img src={Content['batman'].issues[3].imageURL} />
-					<Link to={`/comics/batman/3`}>
-						{Content['batman'].issues[3].title}
-					</Link>
-				</section>
-				<section>
-					<img src={CollectableContent['spiderman'].collectables[3].imageURL} />
-					<Link to={`/collectables/spiderman/3`}>
-						{CollectableContent['spiderman'].collectables[3].title}
-					</Link>
-				</section>
-				<section>
-					<img src={Content['spiderman'].issues[3].imageURL} />
-					<Link to={`/comics/spiderman/3`}>
-						{Content['spiderman'].issues[3].title}
-					</Link>
-				</section>
+				<main>
+					<section className="productone">
+						<aside>
+							<img src={Content['batman'].issues[3].imageURL} />
+						</aside>
+						<Link to={`/comics/batman/3`}>
+							{Content['batman'].issues[3].title}
+						</Link>
+					</section>
+					<section className="productone">
+						<aside>
+							<img src={Content['spiderman'].issues[3].imageURL} />
+						</aside>
+						<Link to={`/comics/spiderman/3`}>
+							{Content['spiderman'].issues[3].title}
+						</Link>
+					</section>
+					<section className="productone">
+						<aside>
+							<img src={Content['deadpool'].issues[3].imageURL} />
+						</aside>
+						<Link to={`/comics/deadpool/3`}>
+							{Content['deadpool'].issues[3].title}
+						</Link>
+					</section>
+					<section className="productone">
+						<aside>
+							<img src={Content['wonderwoman'].issues[3].imageURL} />
+						</aside>
+						<Link to={`/comics/wonderwoman/3`}>
+							{Content['wonderwoman'].issues[3].title}
+						</Link>
+					</section>
+					<section className="productone">
+						<aside>
+							<img src={Content['ironman'].issues[3].imageURL} />
+						</aside>
+						<Link to={`/comics/ironman/3`}>
+							{Content['ironman'].issues[3].title}
+						</Link>
+					</section>
+				</main>
 			</>
 		)
 	}
