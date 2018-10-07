@@ -36,7 +36,9 @@ class Featured extends Component {
 				<main>
 					<section className="productone">
 						<aside>
-							<img src={Content['batman'].issues[3].imageURL} />
+							<Link to={`/comics/batman/3`} className="linkpic">
+								<img src={Content['batman'].issues[3].imageURL} />
+							</Link>
 						</aside>
 						<Link to={`/comics/batman/3`}>
 							{Content['batman'].issues[3].title}
@@ -44,7 +46,9 @@ class Featured extends Component {
 					</section>
 					<section className="productone">
 						<aside>
-							<img src={Content['spiderman'].issues[3].imageURL} />
+							<Link to={`/comics/spiderman/3`} className="linkpic">
+								<img src={Content['spiderman'].issues[3].imageURL} />
+							</Link>
 						</aside>
 						<Link to={`/comics/spiderman/3`}>
 							{Content['spiderman'].issues[3].title}
@@ -52,7 +56,9 @@ class Featured extends Component {
 					</section>
 					<section className="productone">
 						<aside>
-							<img src={Content['deadpool'].issues[3].imageURL} />
+							<Link to={`/comics/deadpool/3`} className="linkpic">
+								<img src={Content['deadpool'].issues[3].imageURL} />
+							</Link>
 						</aside>
 						<Link to={`/comics/deadpool/3`}>
 							{Content['deadpool'].issues[3].title}
@@ -60,7 +66,9 @@ class Featured extends Component {
 					</section>
 					<section className="productone">
 						<aside>
-							<img src={Content['wonderwoman'].issues[3].imageURL} />
+							<Link to={`/comics/wonderwoman/3`} className="linkpic">
+								<img src={Content['wonderwoman'].issues[3].imageURL} />
+							</Link>
 						</aside>
 						<Link to={`/comics/wonderwoman/3`}>
 							{Content['wonderwoman'].issues[3].title}
@@ -68,7 +76,9 @@ class Featured extends Component {
 					</section>
 					<section className="productone">
 						<aside>
-							<img src={Content['ironman'].issues[3].imageURL} />
+							<Link to={`/comics/ironman/3`} className="linkpic">
+								<img src={Content['ironman'].issues[3].imageURL} />
+							</Link>
 						</aside>
 						<Link to={`/comics/ironman/3`}>
 							{Content['ironman'].issues[3].title}

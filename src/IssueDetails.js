@@ -45,14 +45,16 @@ class IssueDetails extends Component {
 						</Link>
 					</span>
 					<span>
-						<i class="fas fa-info-circle" />
-						{Content[character].issues[index].title}
+						<p>
+							<i class="fas fa-info-circle" />
+							{Content[character].issues[index].title}
+						</p>
 					</span>
 				</nav>
 				<main className="producttwo">
 					<div className="top">
-						<h3>{Content[character].issues[index].title}</h3>
-						<figure>{Content[character].issues[index].price}</figure>
+						<h4>{Content[character].issues[index].title}</h4>
+						<h4>{Content[character].issues[index].price}</h4>
 						<button onClick={out}>BUY</button>
 					</div>
 					<div className="bottom">

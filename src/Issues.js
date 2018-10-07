@@ -36,16 +36,19 @@ class Issues extends Component {
 				</nav>
 				<nav>
 					<span>
-						<i class="fas fa-book-open" />
-						{Content[character].title}
+						<p>
+							<i class="fas fa-book-open" />
+							{Content[character].title}
+						</p>
 					</span>
 				</nav>
-				<h2 classNmae="moveright">{Content[character].title}</h2>
 				<main>
 					{Content[character].issues.map((issue, index) => {
 						return (
 							<section key={issue.title} className="productone">
-								<img src={issue.imageURL} />
+								<Link to={`/comics/${character}/${index}`} className="linkpic">
+									<img src={issue.imageURL} />
+								</Link>
 								<Link to={`/comics/${character}/${index}`}>{issue.title}</Link>
 							</section>
 						)

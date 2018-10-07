@@ -13,9 +13,9 @@ class App extends Component {
 		return (
 			<Router>
 				<>
-					<header>
+					<header className="light">
 						<h1>Universe Comic Shop</h1>
-						<h2>The known Universe's best place to find comics online</h2>
+						<h2>The Known Universe's Best Place To Find Comics Online</h2>
 					</header>
 					<>
 						<Switch>

@@ -276,12 +276,6 @@
 		"description": "Wonder Woman is a fictional superhero appearing in American comic books published by DC Comics.[2] The character is a founding member of the Justice League, and an ambassador of the Amazon people. The character first appeared in All Star Comics #8 in October 1941[1] with her first feature in Sensation Comics #1, January 1942. ",
 		"issues": [
 			{
-				"title": "Wonder Woman 75th Anniversary Box Set",
-				"synopsis": "The most recognizable superheroine of all time, Wonder Woman has been an essential part of the DC Universe and an icon for female empowerment for more than 75 years. Armed with her lasso of truth and her bullet-stopping bracelets, the Amazon Princess journeys into Man’s World again and again, spreading her mission of peace and goodwill and fiercely battling injustice where she finds it. She’s a princess, a warrior and an ambassador. Beautiful as Aphrodite, wise as Athena, stronger than Hercules, swifter than Mercury…she is Wonder Woman! WONDER WOMAN: A CELEBRATION OF 75 YEARS collects more than 400 pages of the iconic heroine’s best stories, from her first appearance by William Moulton Marston and H.G. Peter, to her mod ’60s redesign by Denny O’Neil and Mike Sekowsky, to her present-day adventures by Brian Azzarello and Cliff Chiang. Other legendary talents featured include George Pérez, Darwyn Cooke, Robert Kanigher, Gene Colan, Phil Jimenez, Mike Deodato, Greg Rucka, Gail Simone and more.",
-				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51MDnE5AnrL._SX258_BO1,204,203,200_.jpg",
-				"price": "$33.99"
-			},
-			{
 				"title": "Wonder Woman Vol. 1: The Lies (Rebirth) (Wonder Woman DC Universe Rebirth) ",
 				"synopsis": "Heroic. Iconic. Unstoppable. Armed with her Lasso of Truth and imbued with the power of the gods themselves, Princess Diana of Themyscira—known to the world as Wonder Woman—is one of the greatest superheroes in history. But who is she…really? Not even Wonder Woman herself knows for sure. Diana’s links to both the Amazons and the Gods of Olympus have been severed. Her memories are a tangle of contradictions that even her lie-detecting lasso cannot untangle. To solve the riddle of her origin, she must embark on her greatest quest of all: finding a way back to her vanished home. To get there, she must team up with her greatest enemy, the feral beast-woman, Cheetah. Will this unlikely alliance shine the light of truth on Diana’s darkest secrets, or bury them—and her—forever? Find out in WONDER WOMAN VOL. 1: THE LIES—exploding from the blockbuster DC Rebirth event! Legendary Wonder Woman writer Greg Rucka (BATWOMAN: ELEGY) makes his triumphant return to the character for the first time in years and joins renowned fantasy artist Liam Sharp (2000 AD) for one of the most momentous stories in Diana’s history! Collects WONDER WOMAN #1, #3, #5, #7, #9, #11 and the WONDER WOMAN: REBIRTH one-shot.",
 				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51CDYuRxeNL._SX320_BO1,204,203,200_.jpg",
@@ -304,6 +298,12 @@
 				"synopsis": "Wonder Woman, warrior princess of the Amazons, is among the most famous heroes of all time. From her introduction in 1941, she has been a shining example of feminism and the strength of womankind. But what was her role during the wartime of her creation? Wonder Woman: The War Years 1941-1945 details how she used her super speed, strength, and Golden Lasso of Truth during World War II to bring peace and justice to a turbulent world.",
 				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61G-8q494JL._SX258_BO1,204,203,200_.jpg",
 				"price": "$16.99"
+			},
+			{
+				"title": "Wonder Woman 75th Anniversary Box Set",
+				"synopsis": "The most recognizable superheroine of all time, Wonder Woman has been an essential part of the DC Universe and an icon for female empowerment for more than 75 years. Armed with her lasso of truth and her bullet-stopping bracelets, the Amazon Princess journeys into Man’s World again and again, spreading her mission of peace and goodwill and fiercely battling injustice where she finds it. She’s a princess, a warrior and an ambassador. Beautiful as Aphrodite, wise as Athena, stronger than Hercules, swifter than Mercury…she is Wonder Woman! WONDER WOMAN: A CELEBRATION OF 75 YEARS collects more than 400 pages of the iconic heroine’s best stories, from her first appearance by William Moulton Marston and H.G. Peter, to her mod ’60s redesign by Denny O’Neil and Mike Sekowsky, to her present-day adventures by Brian Azzarello and Cliff Chiang. Other legendary talents featured include George Pérez, Darwyn Cooke, Robert Kanigher, Gene Colan, Phil Jimenez, Mike Deodato, Greg Rucka, Gail Simone and more.",
+				"imageURL": "https://images-na.ssl-images-amazon.com/images/I/51MDnE5AnrL._SX258_BO1,204,203,200_.jpg",
+				"price": "$33.99"
 			}
 		],
 		"collectables": [

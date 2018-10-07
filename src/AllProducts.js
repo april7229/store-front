@@ -26,11 +26,13 @@ class AllProducts extends Component {
 						</Link>
 					</span>
 					<span>
-						<i class="fas fa-box" />
-						EVERYTHING!
+						<p>
+							<i class="fas fa-box" />
+							EVERYTHING!
+						</p>
 					</span>
 				</nav>
-				<h3 className="moveright">COMICS</h3>
+				<h3>COMICS</h3>
 				<main>
 					{Object.keys(Content).map(character => {
 						return (
@@ -38,7 +40,12 @@ class AllProducts extends Component {
 								{Content[character].issues.map((issue, index) => {
 									return (
 										<section key={issue.title} className="productone">
-											<img src={issue.imageURL} />
+											<Link
+												to={`/comics/${character}/${index}`}
+												className="linkpic"
+											>
+												<img src={issue.imageURL} />
+											</Link>
 											<Link to={`/comics/${character}/${index}`}>
 												{issue.title}
 											</Link>
@@ -49,7 +56,7 @@ class AllProducts extends Component {
 						)
 					})}
 				</main>
-				<h3 className="moveright">COLLECTABLES</h3>
+				<h3>COLLECTABLES</h3>
 				<main>
 					{Object.keys(Content).map(character => {
 						return (
@@ -57,7 +64,12 @@ class AllProducts extends Component {
 								{Content[character].collectables.map((collectable, index) => {
 									return (
 										<section key={collectable.title} className="productone">
-											<img src={collectable.imageURL} />
+											<Link
+												to={`/collectable/${character}/${index}`}
+												className="linkpic"
+											>
+												<img src={collectable.imageURL} />
+											</Link>
 											<Link to={`/collectable/${character}/${index}`}>
 												{collectable.title}
 											</Link>

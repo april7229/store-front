@@ -39,19 +39,21 @@ class CollectableDetails extends Component {
 				<nav>
 					<span>
 						<Link to={`/collectables/${character}`}>
-							<i className="fas fa-book-open" />
+							<i class="fas fa-child" />
 							{Content[character].title}
 						</Link>
 					</span>
 					<span>
-						<i className="fas fa-info-circle" />
-						{Content[character].collectables[index].title}
+						<p>
+							<i className="fas fa-info-circle" />
+							{Content[character].collectables[index].title}
+						</p>
 					</span>
 				</nav>
 				<main className="producttwo">
 					<div className="top">
-						<h3>{Content[character].collectables[index].title}</h3>
-						<figure>{Content[character].collectables[index].price}</figure>
+						<h4>{Content[character].collectables[index].title}</h4>
+						<h4>{Content[character].collectables[index].price}</h4>
 						<button onClick={out}>BUY</button>
 					</div>
 					<div className="bottom">

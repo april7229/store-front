@@ -36,16 +36,22 @@ class Collectables extends Component {
 				</nav>
 				<nav>
 					<span>
-						<i class="fas fa-book-open" />
-						{Content[character].title}
+						<p>
+							<i class="fas fa-child" />
+							{Content[character].title}
+						</p>
 					</span>
 				</nav>
-				<h2 className="moveright">{Content[character].title}</h2>
 				<main>
 					{Content[character].collectables.map((collectable, index) => {
 						return (
 							<section key={collectable.title} className="productone">
-								<img src={collectable.imageURL} />
+								<Link
+									to={`/collectables/${character}/${index}`}
+									className="linkpic"
+								>
+									<img src={collectable.imageURL} />
+								</Link>
 								<Link to={`/collectables/${character}/${index}`}>
 									{collectable.title}
 								</Link>

@@ -14,10 +14,10 @@ class IssueCharacters extends Component {
 						</Link>
 					</span>
 					<span>
-						<a>
+						<p>
 							<i class="fas fa-book" />
 							COMICS
-						</a>
+						</p>
 					</span>
 					<span>
 						<Link to="/collectables">
@@ -36,13 +36,13 @@ class IssueCharacters extends Component {
 					{Object.keys(Content).map(character => {
 						return (
 							<aside className="productone">
-								<h3>
-									<Link to={`/comics/${character}`}>
-										{Content[character].title}
-									</Link>
-								</h3>
-								<img src={Content[character].issues[0].imageURL} />
-								<p>{Content[character].description}</p>
+								<Link to={`/comics/${character}`}>
+									{Content[character].title}
+								</Link>
+								<Link to={`/comics/${character}`} className="linkpic">
+									<img src={Content[character].issues[0].imageURL} />
+								</Link>
+								<article>{Content[character].description}</article>
 							</aside>
 						)
 					})}
