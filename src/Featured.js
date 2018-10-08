@@ -8,10 +8,10 @@ class Featured extends Component {
 			<>
 				<nav>
 					<span>
-						<a>
+						<p>
 							<i class="fas fa-globe" />
 							HOME
-						</a>
+						</p>
 					</span>
 					<span>
 						<Link to="/comics">
@@ -67,11 +67,11 @@ class Featured extends Component {
 					<section className="productone">
 						<aside>
 							<Link to={`/comics/wonderwoman/3`} className="linkpic">
-								<img src={Content['wonderwoman'].issues[3].imageURL} />
+								<img src={Content['wonderwoman'].issues[2].imageURL} />
 							</Link>
 						</aside>
 						<Link to={`/comics/wonderwoman/3`}>
-							{Content['wonderwoman'].issues[3].title}
+							{Content['wonderwoman'].issues[2].title}
 						</Link>
 					</section>
 					<section className="productone">
