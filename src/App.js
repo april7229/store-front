@@ -14,8 +14,8 @@ class App extends Component {
 			<Router>
 				<>
 					<header className="light">
-						<h1>Universe Comic Shop</h1>
-						<h2>The Known Universe's Best Place To Find Comics Online</h2>
+						<h1>Old and Flippin</h1>
+						<h2> Best Place To Find Comics Online</h2>
 					</header>
 					<>
 						<Switch>
